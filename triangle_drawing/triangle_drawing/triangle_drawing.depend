@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664352560 source:e:\programme\graphicsproject\triangle_drawing\main.cpp
+	<iostream>
+	<graphics.h>
+
+1666765236 source:e:\classroom\10th semester\computer graphics & animation lab-cse444.4\project\triangle_drawing\triangle_drawing\main.cpp
+	<iostream>
+	<graphics.h>
+

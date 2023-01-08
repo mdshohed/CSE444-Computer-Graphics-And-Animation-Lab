@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666780158 source:e:\classroom\10th semester\computer graphics & animation lab-cse444.4\finalexam\circle_squiredrawing\main.cpp
+	<iostream>
+	<graphics.h>
+
